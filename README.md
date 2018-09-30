@@ -2,5 +2,5 @@
 
 Small application to practice basic Android app development
 
-First created: 08/08/2017\n
+First created: 08/08/2017<br/>
 First committed to GitHub: 09/30/2018
