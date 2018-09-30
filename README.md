@@ -1,4 +1,4 @@
-#rock-paper-scissors
+# rock-paper-scissors
 
 Small application to practice basic Android app development
 
